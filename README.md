@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m Shahrear Emon  
 
-<!--
-**Shahrear98/Shahrear98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 From: **Bangladesh**  
+🎓 Education: **Diploma in Engineering**, currently studying at **Edunation Pathway to Finland**  
+💼 Experience: **5+ years in the apparel industry** as **IE Assistant Manager at New Asia Group**  
+📚 Interests: **Technology, Project Management, and Continuous Learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Programming & Tech:** Python, Git, GitHub  
+- **Project Management:** Trello,Team Collaboration  
+- **Industry Expertise:** Apparel production, Industrial Engineering (IE), Process improvement  
+
+---
+
+## 🚀 Current Focus
+- Studying in Finland Pathway Program to pursue higher education opportunities  
+- Building coding and project management skills  
+- Exploring open-source contributions and collaborative projects  
+
+---
+
+## 📌 Projects
+- [Python Exercises Repository](https://github.com/Shahrear98/Exercise-04.git) *(example, replace with your link)*  
+- More projects coming soon!  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: emonshahreare@gmail.com  
+
+
+---
+
+⭐️ *“Committed to lifelong learning, technology, and bridging industry with innovation.”*  
