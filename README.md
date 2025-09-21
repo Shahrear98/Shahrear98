@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Projects
-- [Python Exercises Repository](https://github.com/Shahrear98/Exercise-04.git) *(example, replace with your link)*  
+- [Python Exercises Repository](https://github.com/Shahrear98/Exercise-04.git)
 - More projects coming soon!  
 
 ---
